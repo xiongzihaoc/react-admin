@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import Login from './pages/login'
 import Home from './pages/home'
 
-/*
+/**
  * 应用根组件
  */
 function App() {

@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import { Form, Input, Button, Checkbox } from 'antd';
 import './index.scss'
 
-/*
+/**
  * 登录组件
  */
 export default class Login extends Component {
